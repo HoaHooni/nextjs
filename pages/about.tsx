@@ -1,7 +1,7 @@
 const about = () => {
     return (
         <div>
-            hello hoà đại nhân
+            hello hoà đại nhân 1
         </div>
     );
 }
